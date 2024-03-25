@@ -1,4 +1,4 @@
-++++++++++++++<?php
+<?php
     require 'model/ContactDAO.php'; 
 
     if(isset($_GET['contactID'])){
